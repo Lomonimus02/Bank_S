@@ -1,0 +1,11 @@
+build/
+.venv/
+*.pyc
+__pycache__/
+.idea/
+dist/*.json
+admin_data.json
+user_data.json
+exchange_rates.json
+token_limits.json
+last_action.json
