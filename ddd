@@ -1,0 +1,5 @@
+# Токен вашего бота
+TOKEN = "7677941126:AAHc98B6h0rx_twYBtcgyfKWO_F9UFwDMl0"
+
+# ID администратора
+ADMIN_ID = 1115066615  # Замените на свой ID
